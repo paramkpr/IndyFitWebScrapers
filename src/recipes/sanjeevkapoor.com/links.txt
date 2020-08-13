@@ -91,7 +91,6 @@ https://www.sanjeevkapoor.com/Recipe/Chinese-Bread-Pakoda---SK-Khazana.html
 https://www.sanjeevkapoor.com/Recipe/Chinese-Samosa---SK-Khazana.html
 https://www.sanjeevkapoor.com/Recipe/Russian-Cutlets---SK-Khazana.html
 https://www.sanjeevkapoor.com/Recipe/Sweet-and-Salty-Popcorn---SK-Khazana.html
-https://www.sanjeevkapoor.com/Recipe/Shepherd
 https://www.sanjeevkapoor.com/Recipe/Bhopali-Mutton-Korma---SK-Khazana.html
 https://www.sanjeevkapoor.com/Recipe/Bathue-ka-Saag---SK-Khazana.html
 https://www.sanjeevkapoor.com/Recipe/Besan-ke-Pude-ki-Sabzi---SK-Khazana.html
@@ -2192,7 +2191,7 @@ https://www.sanjeevkapoor.com/Recipe/Meatloaf-Muffins.html
 https://www.sanjeevkapoor.com/Recipe/Matcha-White-Chocolate-Latte.html
 https://www.sanjeevkapoor.com/Recipe/Masala-Khichiya-Papad.html
 https://www.sanjeevkapoor.com/Recipe/Marble-Cookies.html
-https://www.sanjeevkapoor.com/Recipe/Maple-Pot-De-Crème.html
+https://www.sanjeevkapoor.com/Recipe/Maple-Pot-De-Crï¿½me.html
 https://www.sanjeevkapoor.com/Recipe/Maple-Cafe-Latte.html
 https://www.sanjeevkapoor.com/Recipe/Mango-Thandai-Smoothie.html
 https://www.sanjeevkapoor.com/Recipe/Mango-Sherbet.html
@@ -2461,7 +2460,7 @@ https://www.sanjeevkapoor.com/Recipe/Banana-Yogurt-Muffins.html
 https://www.sanjeevkapoor.com/Recipe/Banoffee-Pie-Jars.html
 https://www.sanjeevkapoor.com/Recipe/Banana-Yogurt-Muffins.html
 https://www.sanjeevkapoor.com/Recipe/Banana-Naougat-Smoothie.html
-https://www.sanjeevkapoor.com/Recipe/Baked-Potato-Canapé-Chaat.html
+https://www.sanjeevkapoor.com/Recipe/Baked-Potato-Canapï¿½-Chaat.html
 https://www.sanjeevkapoor.com/Recipe/Baked-Onion-Rings.html
 https://www.sanjeevkapoor.com/Recipe/Baked-Cheese.html
 https://www.sanjeevkapoor.com/Recipe/Bacon-Wrapped-Prunes.html
@@ -2961,8 +2960,8 @@ https://www.sanjeevkapoor.com/Recipe/Jamaican-Fried-Dumplings.html
 https://www.sanjeevkapoor.com/Recipe/Mutton-Rolls.html
 https://www.sanjeevkapoor.com/Recipe/Kartoffel-Salad.html
 https://www.sanjeevkapoor.com/Recipe/Harcha.html
-https://www.sanjeevkapoor.com/Recipe/Gougères.html
-https://www.sanjeevkapoor.com/Recipe/Gougères.html
+https://www.sanjeevkapoor.com/Recipe/Gougï¿½res.html
+https://www.sanjeevkapoor.com/Recipe/Gougï¿½res.html
 https://www.sanjeevkapoor.com/Recipe/Dhapate.html
 https://www.sanjeevkapoor.com/Recipe/Chicken-Rings.html
 https://www.sanjeevkapoor.com/Recipe/Cheesy-Masala-Sausage-Egg-Roll.html
@@ -3854,7 +3853,7 @@ https://www.sanjeevkapoor.com/Recipe/Cookie-Cup.html
 https://www.sanjeevkapoor.com/Recipe/Cinnamon-Donuts.html
 https://www.sanjeevkapoor.com/Recipe/Eggless-White-Chocolate-Chips-and-Cranberry-Cookie.html
 https://www.sanjeevkapoor.com/Recipe/Chocolate-Chip-Waffle.html
-https://www.sanjeevkapoor.com/Recipe/Chocolate-and-Orange-Soufflé.html
+https://www.sanjeevkapoor.com/Recipe/Chocolate-and-Orange-Soufflï¿½.html
 https://www.sanjeevkapoor.com/Recipe/Choco-Chip-Cookies.html
 https://www.sanjeevkapoor.com/Recipe/Eggless-Strawberry-Lava-Cupcake.html
 https://www.sanjeevkapoor.com/Recipe/Eggless-Brownie-Cupcakes.html
@@ -3961,7 +3960,7 @@ https://www.sanjeevkapoor.com/Recipe/Poha-Papad.html
 https://www.sanjeevkapoor.com/Recipe/Poha-Papad.html
 https://www.sanjeevkapoor.com/Recipe/Tomato-and-Egg-Stir-Fry.html
 https://www.sanjeevkapoor.com/Recipe/Thai-Style-Fried-Rice.html
-https://www.sanjeevkapoor.com/Recipe/Tea-Crème-Brulee.html
+https://www.sanjeevkapoor.com/Recipe/Tea-Crï¿½me-Brulee.html
 https://www.sanjeevkapoor.com/Recipe/Palak-Namakpara---Diwali-Special.html
 https://www.sanjeevkapoor.com/Recipe/Orange-and-Olive-Oil-Cake.html
 https://www.sanjeevkapoor.com/Recipe/Tandoori-Chicken-Sliders-with-Green-Chutney-Mayo.html
@@ -4112,7 +4111,7 @@ https://www.sanjeevkapoor.com/Recipe/Singapore-Noodles-Mummy-Ka-Magic-FoodFood.h
 https://www.sanjeevkapoor.com/Recipe/Goan-Brinjal-Fritters-with-Tangy-Sauce.html
 https://www.sanjeevkapoor.com/Recipe/Honey-Fried-Noodles-Mummy-Ka-Magic-FoodFood.html
 https://www.sanjeevkapoor.com/Recipe/Fried-Fish-in-Black-Bean-Sauce.html
-https://www.sanjeevkapoor.com/Recipe/Chinese-Sauce–-Schezwan-Sauce,-Stir-Fry-Sauce-and--Mummy-Ka-Magic-FoodFood.html
+https://www.sanjeevkapoor.com/Recipe/Chinese-Sauceï¿½-Schezwan-Sauce,-Stir-Fry-Sauce-and--Mummy-Ka-Magic-FoodFood.html
 https://www.sanjeevkapoor.com/Recipe/Palak-Butter-Chicken-Wraps-Mummy-Ka-Magic-FoodFood.html
 https://www.sanjeevkapoor.com/Recipe/Mint-Granita-with-Pears-Mummy-Ka-Magic-FoodFood.html
 https://www.sanjeevkapoor.com/Recipe/Cabbage-Wrapped-Dim-Sums-Mummy-Ka-Magic-FoodFood.html
@@ -4211,7 +4210,7 @@ https://www.sanjeevkapoor.com/Recipe/Chutney-Chicken-Vegetable-Rice.html
 https://www.sanjeevkapoor.com/Recipe/Chunky-Mushroom-Soup.html
 https://www.sanjeevkapoor.com/Recipe/Chorizo-Rice.html
 https://www.sanjeevkapoor.com/Recipe/Chorizo-Rice.html
-https://www.sanjeevkapoor.com/Recipe/Chole-Canapés.html
+https://www.sanjeevkapoor.com/Recipe/Chole-Canapï¿½s.html
 https://www.sanjeevkapoor.com/Recipe/Chocolate-Peanut-Squares.html
 https://www.sanjeevkapoor.com/Recipe/Chocolate-Hazelnut-and-Caramel-Mousse.html
 https://www.sanjeevkapoor.com/Recipe/Chocolate-Fondant.html
@@ -5827,7 +5826,7 @@ https://www.sanjeevkapoor.com/Recipe/Olive-Fingers-Sanjeev-Kapoor-Kitchen-FoodFo
 https://www.sanjeevkapoor.com/Recipe/Carrot-and-Orange-Cake-with-Ice-cream-Sanjeev-Kapoor-Kitchen-FoodFood.html
 https://www.sanjeevkapoor.com/Recipe/Tomato-Bread-with-Garlic-Sanjeev-Kapoor-Kitchen-FoodFood.html
 https://www.sanjeevkapoor.com/Recipe/Garlic-Prawns-Sanjeev-Kapoor-Kitchen-FoodFood.html
-https://www.sanjeevkapoor.com/Recipe/Fideuà-Sanjeev-Kapoor-Kitchen-FoodFood.html
+https://www.sanjeevkapoor.com/Recipe/Fideuï¿½-Sanjeev-Kapoor-Kitchen-FoodFood.html
 https://www.sanjeevkapoor.com/Recipe/Slow-Cooked-Chicken-with-Kidney-Beans-Sanjeev-Kapoor-Kitchen-FoodFood.html
 https://www.sanjeevkapoor.com/Recipe/Olive-and-Chilli-Cheese-Sanjeev-Kapoor-Kitchen-FoodFood.html
 https://www.sanjeevkapoor.com/Recipe/Coconut-Brownie-with-Ice-cream-Sanjeev-Kapoor-Kitchen-FoodFood.html
@@ -6205,7 +6204,7 @@ https://www.sanjeevkapoor.com/Recipe/Bomras-Tomato-Salad.html
 https://www.sanjeevkapoor.com/Recipe/Prawn-and-Pomelo-Salad.html
 https://www.sanjeevkapoor.com/Recipe/Chocolate-Mille-Feuille.html
 https://www.sanjeevkapoor.com/Recipe/Chocolate-Macaroons.html
-https://www.sanjeevkapoor.com/Recipe/Chocolate-Éclairs.html
+https://www.sanjeevkapoor.com/Recipe/Chocolate-ï¿½clairs.html
 https://www.sanjeevkapoor.com/Recipe/Soya-Calzone-Turban-Tadka-FoodFood.html
 https://www.sanjeevkapoor.com/Recipe/Purple-Yam-Wadiyaan-Turban-Tadka-FoodFood.html
 https://www.sanjeevkapoor.com/Recipe/Kele-aur-Sabudane-ki-Kheer-Turban-Tadka-FoodFood.html
@@ -7336,7 +7335,7 @@ https://www.sanjeevkapoor.com/Recipe/Kothimbir-Wadi.html
 https://www.sanjeevkapoor.com/Recipe/Appleslaw.html
 https://www.sanjeevkapoor.com/Recipe/Bread-Salad.html
 https://www.sanjeevkapoor.com/Recipe/Talela-Bangda.html
-https://www.sanjeevkapoor.com/Recipe/Caesar’s-Salad.html
+https://www.sanjeevkapoor.com/Recipe/Caesarï¿½s-Salad.html
 https://www.sanjeevkapoor.com/Recipe/Beetroot-Salad-With-Orange-Dressing.html
 https://www.sanjeevkapoor.com/Recipe/Crunchy-Vegetable-Salad.html
 https://www.sanjeevkapoor.com/Recipe/Rosemary-And-Pistachio-Lamb-Steak-With-Onion-And-M.html
@@ -7969,7 +7968,7 @@ https://www.sanjeevkapoor.com/Recipe/Murgh-Ke-Wade.html
 https://www.sanjeevkapoor.com/Recipe/Murgh-Ke-Wade.html
 https://www.sanjeevkapoor.com/Recipe/Date-And-Walnut-Hot-Cake.html
 https://www.sanjeevkapoor.com/Recipe/Elaichi-Phirni.html
-https://www.sanjeevkapoor.com/Recipe/Slimmers’-Salad-In-No-Oil-Dressing.html
+https://www.sanjeevkapoor.com/Recipe/Slimmersï¿½-Salad-In-No-Oil-Dressing.html
 https://www.sanjeevkapoor.com/Recipe/Spicy-Pineapple-Boat.html
 https://www.sanjeevkapoor.com/Recipe/Paneer-Capsicum-Pakora.html
 https://www.sanjeevkapoor.com/Recipe/Paneer-Capsicum-Pakora.html
@@ -8044,7 +8043,7 @@ https://www.sanjeevkapoor.com/Recipe/Chilled-Lemon-Cheesecake.html
 https://www.sanjeevkapoor.com/Recipe/Lemon-Banana-Lassi.html
 https://www.sanjeevkapoor.com/Recipe/Fruit-Tartlets.html
 https://www.sanjeevkapoor.com/Recipe/Kong-Firin.html
-https://www.sanjeevkapoor.com/Recipe/Lover’s-Delight.html
+https://www.sanjeevkapoor.com/Recipe/Loverï¿½s-Delight.html
 https://www.sanjeevkapoor.com/Recipe/Party-Punch.html
 https://www.sanjeevkapoor.com/Recipe/Cajun-Rice.html
 https://www.sanjeevkapoor.com/Recipe/Paneer-Pasanda.html
@@ -9104,7 +9103,7 @@ https://www.sanjeevkapoor.com/Recipe/Pear-Salad-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Shrikhand-With-Stewed-Apricots-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Strawberry-Cheesecake-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Tomato-Egg-Drop-Soup-KhaanaKhazana.html
-https://www.sanjeevkapoor.com/Recipe/CrÈMe-Brulee-KhaanaKhazana.html
+https://www.sanjeevkapoor.com/Recipe/Crï¿½Me-Brulee-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Mishti-Doi-Sanjeev-Kapoor-Kitchen-FoodFood.html
 https://www.sanjeevkapoor.com/Recipe/Mishti-Doi-Sanjeev-Kapoor-Kitchen-FoodFood.html
 https://www.sanjeevkapoor.com/Recipe/Tomato-Chaatni-Sanjeev-Kapoor-Kitchen-FoodFood.html
@@ -9451,10 +9450,10 @@ https://www.sanjeevkapoor.com/Recipe/Moulded-Rice-With-Chicken-KhaanaKhazana.htm
 https://www.sanjeevkapoor.com/Recipe/Kindergarten-Pasta-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Moulded-Rice-With-Chicken-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Oatmeal-Bars-Sirf-30-minute-FoodFood.html
-https://www.sanjeevkapoor.com/Recipe/Shepherd’S-Pie-KhaanaKhazana.html
+https://www.sanjeevkapoor.com/Recipe/Shepherdï¿½S-Pie-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Penne-And-Vegetables-In-Makhni-Sauce-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Salan-Gravy-KhaanaKhazana.html
-https://www.sanjeevkapoor.com/Recipe/Shepherd’S-Pie-KhaanaKhazana.html
+https://www.sanjeevkapoor.com/Recipe/Shepherdï¿½S-Pie-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Penne-And-Vegetables-In-Makhni-Sauce-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Salan-Gravy-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Paneer-Dhania-Korma-Sirf-30-minute-FoodFood.html
@@ -9620,7 +9619,7 @@ https://www.sanjeevkapoor.com/Recipe/Cappuccino-Of-Mushrooms-With-Ground-Spices-
 https://www.sanjeevkapoor.com/Recipe/Caramelized-Banana-Crepes-Sirf-30-minute-FoodFood.html
 https://www.sanjeevkapoor.com/Recipe/Chicken-Pie-With-Tomatoes-And-Olives-Sirf-30-minute-FoodFood.html
 https://www.sanjeevkapoor.com/Recipe/Italian-Hot-Fudge-Sundae-Sanjeev-Kapoor-Kitchen-FoodFood.html
-https://www.sanjeevkapoor.com/Recipe/Chocolate-Soufflé-Sirf-30-minute-FoodFood.html
+https://www.sanjeevkapoor.com/Recipe/Chocolate-Soufflï¿½-Sirf-30-minute-FoodFood.html
 https://www.sanjeevkapoor.com/Recipe/Mushroom-Stuffed-with-Ricotta,-Pinenuts-and-Basil-Sirf-30-minute-FoodFood.html
 https://www.sanjeevkapoor.com/Recipe/Potato-And-Spinach-Gnocchi-With-Saffron-Sirf-30-minute-FoodFood.html
 https://www.sanjeevkapoor.com/Recipe/Red-Pepper-Pesto-Fusilli-Sanjeev-Kapoor-Kitchen-FoodFood.html
@@ -10790,7 +10789,7 @@ https://www.sanjeevkapoor.com/Recipe/Garlic-Chakli-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Lasagne-Bolognese-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Wholemeal-Fresh-Dough-Thin-Crust-Pizza-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Lemony-Fiesta-KhaanaKhazana.html
-https://www.sanjeevkapoor.com/Recipe/Lion’s-Milk-KhaanaKhazana.html
+https://www.sanjeevkapoor.com/Recipe/Lionï¿½s-Milk-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Gajar-Pista-Burfi-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Onion-Tamarind-Chutney-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Choco-Jamun-KhaanaKhazana.html
@@ -11123,14 +11122,14 @@ https://www.sanjeevkapoor.com/Recipe/Teen-Dal-Dosa-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Homestyle-Potato-Chips--KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Orange-Malpua-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Rack-Of-Lamb-With-Apple-Sauce-KhaanaKhazana.html
-https://www.sanjeevkapoor.com/Recipe/Bailey’s-Irish-Cream-Mousse-KhaanaKhazana.html
+https://www.sanjeevkapoor.com/Recipe/Baileyï¿½s-Irish-Cream-Mousse-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Sticky-Date-Pudding-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Chilli-Garlic-Dragon-Fish-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Pan-Fried-Chicken-Breasts-With-Lemon-And-Basil-Sau-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Moroccan-Chicken-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Five-Spice-Tofu-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Green-Chicken-KhaanaKhazana.html
-https://www.sanjeevkapoor.com/Recipe/Desi-Shepherd’s-Pie-KhaanaKhazana.html
+https://www.sanjeevkapoor.com/Recipe/Desi-Shepherdï¿½s-Pie-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Fruit-Chaat-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Baked-Egg-And-Rice-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Chicken-Tetrazini-KhaanaKhazana.html
@@ -11335,7 +11334,7 @@ https://www.sanjeevkapoor.com/Recipe/Angel-Food-Cake.html
 https://www.sanjeevkapoor.com/Recipe/Angel-Food-Cake.html
 https://www.sanjeevkapoor.com/Recipe/Chocolate-Tea-Cake-Sanjeev-Kapoor-Kitchen-FoodFood.html
 https://www.sanjeevkapoor.com/Recipe/Lemon-Strawberry-Tart.html
-https://www.sanjeevkapoor.com/Recipe/Caesar’s-Salad-Party-Cooking.html
+https://www.sanjeevkapoor.com/Recipe/Caesarï¿½s-Salad-Party-Cooking.html
 https://www.sanjeevkapoor.com/Recipe/Creme-Brulee-Party-Cooking.html
 https://www.sanjeevkapoor.com/Recipe/Mushroom,-Babycorn-And-Paneer-Tawa-Masala-Paneer-Book.html
 https://www.sanjeevkapoor.com/Recipe/Bharwan-Arbi-Cooking-with-Love.html
@@ -11376,7 +11375,7 @@ https://www.sanjeevkapoor.com/Recipe/Root-Vegetables-Medley-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Green-Peas-And-Date-Pudding-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Green-Beans-With-Thai-Style-Sesame-Chilli-Sauce-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Cabbage-Soup-KhaanaKhazana.html
-https://www.sanjeevkapoor.com/Recipe/Vegetarian-Shepherd’s-Pie-KhaanaKhazana.html
+https://www.sanjeevkapoor.com/Recipe/Vegetarian-Shepherdï¿½s-Pie-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Lettuce-Wrap-With-Chicken-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Apple-Torte-With-Breadcrumbs-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Sundae-With-Espresso-Hot-Fudge-Sauce-KhaanaKhazana.html
@@ -11833,10 +11832,10 @@ https://www.sanjeevkapoor.com/Recipe/Kachori-Chaat-Chaat.html
 https://www.sanjeevkapoor.com/Recipe/Jackfruit-Pickle-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Daab-Chingri-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Strawberry-Milk-Shake-Fun-Food-For-Fussy-Kids.html
-https://www.sanjeevkapoor.com/Recipe/Eve’S-Pudding-With-Mango-KhaanaKhazana.html
+https://www.sanjeevkapoor.com/Recipe/Eveï¿½S-Pudding-With-Mango-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Boti-Kabab-Tandoori-Cooking-@-Home.html
 https://www.sanjeevkapoor.com/Recipe/Bharwan-Karela-Kadai-Cooking.html
-https://www.sanjeevkapoor.com/Recipe/Eve’S-Pudding-With-Mango-KhaanaKhazana.html
+https://www.sanjeevkapoor.com/Recipe/Eveï¿½S-Pudding-With-Mango-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Boti-Kabab-Tandoori-Cooking-@-Home.html
 https://www.sanjeevkapoor.com/Recipe/Bharwan-Karela-Kadai-Cooking.html
 https://www.sanjeevkapoor.com/Recipe/Almond-Cookies-KhaanaKhazana.html
@@ -12385,7 +12384,7 @@ https://www.sanjeevkapoor.com/Recipe/Grilled-Chicken-Sandwich.html
 https://www.sanjeevkapoor.com/Recipe/Baked-Potato-Wedges.html
 https://www.sanjeevkapoor.com/Recipe/Grilled-Chicken-Sandwich.html
 https://www.sanjeevkapoor.com/Recipe/Makai-Palak-Mirchein-Turban-Tadka-FoodFood.html
-https://www.sanjeevkapoor.com/Recipe/Mango-Soufflé-KhaanaKhazana.html
+https://www.sanjeevkapoor.com/Recipe/Mango-Soufflï¿½-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Eggless-Tiramisu-KhaanaKhazana.html
 https://www.sanjeevkapoor.com/Recipe/Corn-Ki-Kheer-Sirf-30-minute-FoodFood.html
 https://www.sanjeevkapoor.com/Recipe/Corn-Ki-Kheer-Sirf-30-minute-FoodFood.html
@@ -12558,7 +12557,7 @@ https://www.sanjeevkapoor.com/Recipe/Chane-Ke-Chops-Sanjeev-Kapoor-Kitchen-FoodF
 https://www.sanjeevkapoor.com/Recipe/Cauliflower-Keema-Sanjeev-Kapoor-Kitchen-FoodFood.html
 https://www.sanjeevkapoor.com/Recipe/Cashew-Chicken-Sanjeev-Kapoor-Kitchen-FoodFood.html
 https://www.sanjeevkapoor.com/Recipe/Caramel-Banana-Sanjeev-Kapoor-Kitchen-FoodFood.html
-https://www.sanjeevkapoor.com/Recipe/Caesar’s-Salad-Sanjeev-Kapoor-Kitchen-FoodFood.html
+https://www.sanjeevkapoor.com/Recipe/Caesarï¿½s-Salad-Sanjeev-Kapoor-Kitchen-FoodFood.html
 https://www.sanjeevkapoor.com/Recipe/Butterscotch-Icecream-With-Cherries-Sanjeev-Kapoor-Kitchen-FoodFood.html
 https://www.sanjeevkapoor.com/Recipe/Broccoli-Cups-Sanjeev-Kapoor-Kitchen-FoodFood.html
 https://www.sanjeevkapoor.com/Recipe/Breakfast-Burritos-Sanjeev-Kapoor-Kitchen-FoodFood.html
@@ -13086,7 +13085,7 @@ https://www.sanjeevkapoor.com/Recipe/Aloo-Ka-Halwa-Marwari-Vegetarian-Cooking.ht
 https://www.sanjeevkapoor.com/Recipe/Hot-Cross-Buns-Cakes-and-Bakes.html
 https://www.sanjeevkapoor.com/Recipe/Aloo-Ka-Halwa-Marwari-Vegetarian-Cooking.html
 https://www.sanjeevkapoor.com/Recipe/Hot-Cross-Buns-Cakes-and-Bakes.html
-https://www.sanjeevkapoor.com/Recipe/Chicken-Cutlet-A-L’-Indienne--Any-Time-Temptations.html
+https://www.sanjeevkapoor.com/Recipe/Chicken-Cutlet-A-Lï¿½-Indienne--Any-Time-Temptations.html
 https://www.sanjeevkapoor.com/Recipe/Dahi-Ke-Kebab-Marwari-Vegetarian-Cooking.html
 https://www.sanjeevkapoor.com/Recipe/Spaghetti-With-Garlic-And-Oil-Italian-Cooking.html
 https://www.sanjeevkapoor.com/Recipe/Mixed-Vegetable-Soup-Khazana-of-Healthy-Tasty.html
@@ -13111,7 +13110,7 @@ https://www.sanjeevkapoor.com/Recipe/Kimchi--Flavours-of-the-Orient.html
 https://www.sanjeevkapoor.com/Recipe/Matar-Ki-Kheer-Khazana-of-Indian-Recipes.html
 https://www.sanjeevkapoor.com/Recipe/Kimchi--Flavours-of-the-Orient.html
 https://www.sanjeevkapoor.com/Recipe/Medley-Of-Fruits-With-Candied-Rose-Khazana-of-Healthy-Tasty.html
-https://www.sanjeevkapoor.com/Recipe/Caesar’s-Salad-Any-Time-Temptations.html
+https://www.sanjeevkapoor.com/Recipe/Caesarï¿½s-Salad-Any-Time-Temptations.html
 https://www.sanjeevkapoor.com/Recipe/Marzipan-Cakes-and-Bakes.html
 https://www.sanjeevkapoor.com/Recipe/Orange-Rice-Pudding-hazana-of-Healthy-Tasty.html
 https://www.sanjeevkapoor.com/Recipe/Kesari-Badam-Kulfi-Any-Time-Temptations.html
@@ -13964,7 +13963,7 @@ https://www.sanjeevkapoor.com/Recipe/Jackfruit-Sabzi.html
 https://www.sanjeevkapoor.com/Recipe/Syun-Methi.html
 https://www.sanjeevkapoor.com/Recipe/Crostini-Al-Parmigiano-Italian-Cooking.html
 https://www.sanjeevkapoor.com/Recipe/Tamatar-Ki-Kadhi-No-Oil-Cooking.html
-https://www.sanjeevkapoor.com/Recipe/Cauliflower,-Potato-And-Leek-Puree-(4-–-6-Months).html
+https://www.sanjeevkapoor.com/Recipe/Cauliflower,-Potato-And-Leek-Puree-(4-ï¿½-6-Months).html
 https://www.sanjeevkapoor.com/Recipe/Bhindi-Ravaiya.html
 https://www.sanjeevkapoor.com/Recipe/Bhindi-Ravaiya.html
 https://www.sanjeevkapoor.com/Recipe/Dhurandari-Chicken-.html
@@ -14537,7 +14536,7 @@ https://www.sanjeevkapoor.com/Recipe/Fresh-Nariyal-Barfi.html
 https://www.sanjeevkapoor.com/Recipe/Matar--Ke--Cutlet.html
 https://www.sanjeevkapoor.com/Recipe/Rajgara-Atta-Aur-Sama-Ki-Idli.html
 https://www.sanjeevkapoor.com/Recipe/Rajgara-Atta-Aur-Sama-Ki-Idli.html
-https://www.sanjeevkapoor.com/Recipe/Kebab–E–Banno.html
+https://www.sanjeevkapoor.com/Recipe/Kebabï¿½Eï¿½Banno.html
 https://www.sanjeevkapoor.com/Recipe/Spicy-Rajma-Parantha.html
 https://www.sanjeevkapoor.com/Recipe/Kesarya-Pulao.html
 https://www.sanjeevkapoor.com/Recipe/Khasta-Kachori.html
@@ -15051,7 +15050,7 @@ https://www.sanjeevkapoor.com/Recipe/Zafrani-Grilled-Chicken.html
 https://www.sanjeevkapoor.com/Recipe/Healthy-Fish-Patty-In-Bun-.html
 https://www.sanjeevkapoor.com/Recipe/Karanji.html
 https://www.sanjeevkapoor.com/Recipe/Microwave-Cake.html
-https://www.sanjeevkapoor.com/Recipe/Lemon-‘N-Garlic-Grilled-Chicken.html
+https://www.sanjeevkapoor.com/Recipe/Lemon-ï¿½N-Garlic-Grilled-Chicken.html
 https://www.sanjeevkapoor.com/Recipe/Masala-Fish-.html
 https://www.sanjeevkapoor.com/Recipe/Merenda.html
 https://www.sanjeevkapoor.com/Recipe/Kesari-Sheera.html
@@ -15223,7 +15222,7 @@ https://www.sanjeevkapoor.com/Recipe/Melon-And-Mango-Smoothie.html
 https://www.sanjeevkapoor.com/Recipe/Melon-And-Mango-Smoothie.html
 https://www.sanjeevkapoor.com/Recipe/Icecream-Sandesh.html
 https://www.sanjeevkapoor.com/Recipe/Lemony-Banana-Walnut-Cake.html
-https://www.sanjeevkapoor.com/Recipe/Iced-Mango-Soufflé.html
+https://www.sanjeevkapoor.com/Recipe/Iced-Mango-Soufflï¿½.html
 https://www.sanjeevkapoor.com/Recipe/Lettuce-Parcels-Flavours-of-the-Orient.html
 https://www.sanjeevkapoor.com/Recipe/Sweet-Date-And-Tamarind-Chutney.html
 https://www.sanjeevkapoor.com/Recipe/Caramel-Chicken-Wings-Flavours-of-the-Orient.html

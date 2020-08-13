@@ -41,6 +41,8 @@ count = 0
 with open('data.json', 'w+') as out:
     with open('links.txt', 'r') as f:
         for link in f:
+            print('getting66 r ' + link + '   number:  ' + str(count))
+
             r = {}
             link = link[:-1]
             html = requests.get(link).content
@@ -51,6 +53,4 @@ with open('data.json', 'w+') as out:
             r.update(get_data_from_print_page(print_page_soup))
             r.update(get_metadata_from_recipe_page(soup))
             out.write(json.dumps(r) + ',' + '\n')
-            print('got r ' + link + '   number:  ' + str(count))
             count += 1
-
